@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Meal Planner (Java)/*
+!/Meal Planner (Java)/task/
+/Meal Planner (Java)/task/*
+!/Meal Planner (Java)/task/src
+!/Meal Planner (Java)/task/plan.txt
